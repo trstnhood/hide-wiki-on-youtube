@@ -53,21 +53,6 @@ Wikipedia is not a neutral, infallible source – it is written by anonymous edi
 
 ## What does it remove?
 
-YouTube adds these panels on a wide range of subjects, including:
-
-- **COVID-19** – Coronavirus pandemic
-- **Climate change** – Global warming, greenhouse effect
-- **WHO** – World Health Organization
-- **Conspiracy theories** – Moon landing, flat earth, 9/11, QAnon
-- **Evolution** – Theory of evolution, natural selection
-- **UFOs / UAPs** – Unidentified aerial phenomena
-- **Vaccines** – Vaccination, immunization
-- **Nuclear energy** – Nuclear power, radioactivity
-- **Genetic engineering** – GMOs, gene editing
-- **Historical events** – Holocaust, Armenian genocide, wars
-
-This extension removes **all** of these info panels – regardless of the topic.
-
 ```
 ┌──────────────────────────────────────────┐
 │  i  Topic XY                             │
@@ -76,7 +61,7 @@ This extension removes **all** of these info panels – regardless of the topic.
 └──────────────────────────────────────────┘
 ```
 
-> **Note:** This extension does not block or modify any video content. It only removes the info panels that YouTube adds below videos.
+This extension removes **all** Wikipedia and Britannica info panels – regardless of the topic. It does not block or modify any video content.
 
 ---
 
@@ -174,21 +159,6 @@ Wikipedia ist keine neutrale, unfehlbare Quelle – sie wird von anonymen Editor
 
 ## Was wird entfernt?
 
-YouTube fügt diese Panels bei einer Vielzahl von Themen hinzu, zum Beispiel:
-
-- **COVID-19** – Coronavirus-Pandemie
-- **Klimawandel** – Erderwärmung, Treibhauseffekt
-- **WHO** – Weltgesundheitsorganisation
-- **Verschwörungstheorien** – Mondlandung, Flache Erde, 9/11, QAnon
-- **Evolution** – Evolutionstheorie, natürliche Selektion
-- **UFOs / UAPs** – Unidentifizierte Flugobjekte
-- **Impfungen** – Impfstoffe, Immunisierung
-- **Kernenergie** – Atomkraft, Radioaktivität
-- **Gentechnik** – GMOs, Genbearbeitung
-- **Historische Ereignisse** – Holocaust, Völkermorde, Kriege
-
-Diese Extension entfernt **alle** diese Infoboxen – unabhängig vom Thema.
-
 ```
 ┌──────────────────────────────────────────┐
 │  i  Thema XY                             │
@@ -197,7 +167,7 @@ Diese Extension entfernt **alle** diese Infoboxen – unabhängig vom Thema.
 └──────────────────────────────────────────┘
 ```
 
-> **Hinweis:** Diese Extension blockiert oder verändert keine Videoinhalte. Sie entfernt nur die Infoboxen, die YouTube unter Videos hinzufügt.
+Diese Extension entfernt **alle** Wikipedia- und Britannica-Infoboxen – unabhängig vom Thema. Videoinhalte werden nicht blockiert oder verändert.
 
 ---
 
