@@ -39,7 +39,7 @@ Download the latest signed extension from [**Releases**](../../releases):
 
 ### Safari (macOS)
 
-Requires Xcode. See [safari/INSTALLIEREN.md](safari/INSTALLIEREN.md) for details.
+Coming soon – requires Apple Developer Account for code signing. Source code is already available in the `safari/` folder.
 
 ---
 
@@ -53,7 +53,7 @@ Wikipedia is not a neutral, infallible source – it is written by anonymous edi
 
 ## What does it remove?
 
-YouTube adds these panels on a wide range of subjects, including: These panels appear on a wide range of subjects, including:
+YouTube adds these panels on a wide range of subjects, including:
 
 - **COVID-19** – Coronavirus pandemic
 - **Climate change** – Global warming, greenhouse effect
@@ -102,7 +102,7 @@ hide-youtube-wiki-panels/
 | **Chrome** | Works via Developer Mode | Load unpacked extension |
 | **Edge** | Works via Developer Mode | Load unpacked extension |
 | **Arc / Brave / Vivaldi / Opera** | Works via Developer Mode | Same as Chrome |
-| **Safari** | Requires Xcode build | See instructions |
+| **Safari** | Coming soon | Requires Apple Developer Account for signing |
 
 ---
 
@@ -160,7 +160,7 @@ Lade die signierte Extension unter [**Releases**](../../releases) herunter:
 
 ### Safari (macOS)
 
-Benötigt Xcode. Details: [safari/INSTALLIEREN.md](safari/INSTALLIEREN.md)
+Coming soon – benötigt Apple Developer Account für Code-Signierung. Der Quellcode liegt bereits im `safari/`-Ordner.
 
 ---
 
@@ -223,7 +223,7 @@ hide-youtube-wiki-panels/
 | **Chrome** | Funktioniert im Entwicklermodus | Entpackte Erweiterung laden |
 | **Edge** | Funktioniert im Entwicklermodus | Entpackte Erweiterung laden |
 | **Arc / Brave / Vivaldi / Opera** | Funktioniert im Entwicklermodus | Wie Chrome |
-| **Safari** | Benötigt Xcode-Build | Siehe Anleitung |
+| **Safari** | Coming soon | Benötigt Apple Developer Account für Signierung |
 
 ---
 
