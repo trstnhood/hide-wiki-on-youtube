@@ -43,15 +43,40 @@ Requires Xcode. See [safari/INSTALLIEREN.md](safari/INSTALLIEREN.md) for details
 
 ---
 
+## Why this extension?
+
+YouTube automatically displays info panels from Wikipedia and Britannica below videos on certain topics – without you asking for it. This is a form of patronizing: a platform decides you need "context" before you can form your own opinion.
+
+Wikipedia is not a neutral, infallible source – it is written by anonymous editors and is controversial on many topics. Yet YouTube presents these panels as if they were objective truth.
+
+**Hide Wiki gives you back control.** You decide which sources you read.
+
 ## What does it remove?
+
+YouTube adds these panels on a wide range of subjects, including: These panels appear on a wide range of subjects, including:
+
+- **COVID-19** – Coronavirus pandemic
+- **Climate change** – Global warming, greenhouse effect
+- **WHO** – World Health Organization
+- **Conspiracy theories** – Moon landing, flat earth, 9/11, QAnon
+- **Evolution** – Theory of evolution, natural selection
+- **UFOs / UAPs** – Unidentified aerial phenomena
+- **Vaccines** – Vaccination, immunization
+- **Nuclear energy** – Nuclear power, radioactivity
+- **Genetic engineering** – GMOs, gene editing
+- **Historical events** – Holocaust, Armenian genocide, wars
+
+This extension removes **all** of these info panels – regardless of the topic.
 
 ```
 ┌──────────────────────────────────────────┐
-│  i  COVID-19                             │
-│  COVID-19 (Coronavirus) is a ...         │
-│  Source: Wikipedia                       │
+│  i  Topic XY                             │
+│  Topic XY is a ...                       │
+│  Source: Wikipedia / Britannica          │
 └──────────────────────────────────────────┘
 ```
+
+> **Note:** This extension does not block or modify any video content. It only removes the info panels that YouTube adds below videos.
 
 ---
 
@@ -139,15 +164,40 @@ Benötigt Xcode. Details: [safari/INSTALLIEREN.md](safari/INSTALLIEREN.md)
 
 ---
 
+## Warum dieses Plugin?
+
+YouTube blendet bei bestimmten Themen automatisch Infoboxen von Wikipedia und Britannica ein – ohne dass man danach gefragt hat. Das ist eine Form der Bevormundung: Eine Plattform entscheidet, dass du eine "Einordnung" brauchst, bevor du dir eine eigene Meinung bilden kannst.
+
+Wikipedia ist keine neutrale, unfehlbare Quelle – sie wird von anonymen Editoren geschrieben und ist bei vielen Themen umstritten. Trotzdem präsentiert YouTube diese Panels so, als wären sie die objektive Wahrheit.
+
+**Hide Wiki gibt dir die Kontrolle zurück.** Du entscheidest selbst, welche Quellen du liest.
+
 ## Was wird entfernt?
+
+YouTube fügt diese Panels bei einer Vielzahl von Themen hinzu, zum Beispiel:
+
+- **COVID-19** – Coronavirus-Pandemie
+- **Klimawandel** – Erderwärmung, Treibhauseffekt
+- **WHO** – Weltgesundheitsorganisation
+- **Verschwörungstheorien** – Mondlandung, Flache Erde, 9/11, QAnon
+- **Evolution** – Evolutionstheorie, natürliche Selektion
+- **UFOs / UAPs** – Unidentifizierte Flugobjekte
+- **Impfungen** – Impfstoffe, Immunisierung
+- **Kernenergie** – Atomkraft, Radioaktivität
+- **Gentechnik** – GMOs, Genbearbeitung
+- **Historische Ereignisse** – Holocaust, Völkermorde, Kriege
+
+Diese Extension entfernt **alle** diese Infoboxen – unabhängig vom Thema.
 
 ```
 ┌──────────────────────────────────────────┐
-│  i  COVID-19                             │
-│  COVID-19 (Coronavirus) ist eine ...     │
-│  Quelle: Wikipedia                       │
+│  i  Thema XY                             │
+│  Thema XY ist eine ...                   │
+│  Quelle: Wikipedia / Britannica          │
 └──────────────────────────────────────────┘
 ```
+
+> **Hinweis:** Diese Extension blockiert oder verändert keine Videoinhalte. Sie entfernt nur die Infoboxen, die YouTube unter Videos hinzufügt.
 
 ---
 
