@@ -1,0 +1,9 @@
+# Build artifacts – these go into GitHub Releases, not the repo
+*.xpi
+*.zip
+
+# Generated files
+generate_icons.py
+
+# macOS
+.DS_Store

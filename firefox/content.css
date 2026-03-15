@@ -1,0 +1,7 @@
+/* CSS-basiertes Ausblenden der YouTube-Kontextboxen.
+   Greift sofort, noch bevor das JS läuft. */
+
+ytd-info-panel-content-renderer,
+#clarify-box {
+  display: none !important;
+}
