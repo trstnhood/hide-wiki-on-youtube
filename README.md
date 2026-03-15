@@ -1,8 +1,8 @@
 # Hide Wiki
 
-**Removes Wikipedia and Britannica info panels from YouTube videos.**
+**Removes all those annoying Wikipedia and Britannica "context" panels that YouTube puts below videos – as if you can't research a topic yourself.**
 
-YouTube automatically displays context panels below certain videos linking to Wikipedia or Britannica. This browser extension removes them.
+I can think for myself, thank you very much.
 
 - No data collection
 - No account required
@@ -121,9 +121,9 @@ Free to use. Do whatever you want with it.
 
 # Hide Wiki (Deutsch)
 
-**Entfernt Wikipedia- und Britannica-Infoboxen von YouTube-Videos.**
+**Entfernt die nervigen Wikipedia- und Britannica-"Kontext"-Panels, die YouTube unter Videos packt – als könnte man sich nicht selbst über ein Thema informieren.**
 
-YouTube zeigt bei bestimmten Themen automatisch Kontext-Infoboxen unter Videos an, die auf Wikipedia oder Britannica verweisen. Diese Browser-Extension entfernt sie.
+Ich kann selbst denken, danke.
 
 - Keine Datensammlung
 - Kein Konto nötig
