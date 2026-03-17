@@ -1,13 +1,13 @@
-# Hide Wiki
+# Hide Wiki — Remove YouTube's Topical Context Panels
 
-**Removes all those annoying Wikipedia and Britannica "context" panels that YouTube puts below videos – as if you can't research a topic yourself.**
+**Removes YouTube's topical context panels (Wikipedia boxes, Britannica information panels) – as if you can't research a topic yourself.**
 
 I can think for myself, thank you very much.
 
-- No data collection
+- No data collection — runs 100% locally
 - No account required
 - Works immediately after installation
-- Runs locally in your browser
+- Dedicated extension — no uBlock filters that break on every YouTube update
 
 ---
 
@@ -45,11 +45,9 @@ Coming soon – requires Apple Developer Account for code signing. Source code i
 
 ## Why this extension?
 
-YouTube automatically displays info panels from Wikipedia and Britannica below videos on certain topics – without you asking for it. This is a form of patronizing: a platform decides you need "context" before you can form your own opinion.
+YouTube automatically displays topical context panels (also called information panels or Wikipedia boxes) below videos on certain topics – without you asking for it. Whether you find them useful or not should be your choice, not YouTube's.
 
-Wikipedia is not a neutral, infallible source – it is written by anonymous editors and is controversial on many topics. Yet YouTube presents these panels as if they were objective truth.
-
-**Hide Wiki gives you back control.** You decide which sources you read.
+**Hide Wiki gives you back that choice.** You decide what context you need and where you get it from. A cleaner YouTube, on your terms.
 
 ## What does it remove?
 
@@ -61,7 +59,7 @@ Wikipedia is not a neutral, infallible source – it is written by anonymous edi
 └──────────────────────────────────────────┘
 ```
 
-This extension removes **all** Wikipedia and Britannica info panels – regardless of the topic. It does not block or modify any video content.
+This extension removes **all** topical context panels (Wikipedia boxes, Britannica information panels) – regardless of the topic. It does not block or modify any video content.
 
 ---
 
@@ -104,16 +102,16 @@ Free to use. Do whatever you want with it.
 ---
 ---
 
-# Hide Wiki (Deutsch)
+# Hide Wiki — YouTube Topical-Context-Panels ausblenden (Deutsch)
 
-**Entfernt die nervigen Wikipedia- und Britannica-"Kontext"-Panels, die YouTube unter Videos packt – als könnte man sich nicht selbst über ein Thema informieren.**
+**Entfernt YouTubes Topical-Context-Panels (Wikipedia-Boxen, Britannica-Informationstafeln) – als könnte man sich nicht selbst über ein Thema informieren.**
 
 Ich kann selbst denken, danke.
 
-- Keine Datensammlung
+- Keine Datensammlung — läuft 100% lokal
 - Kein Konto nötig
 - Funktioniert sofort nach der Installation
-- Läuft lokal im Browser
+- Dedizierte Extension — keine uBlock-Filter die bei jedem YouTube-Update brechen
 
 ---
 
@@ -151,11 +149,9 @@ Coming soon – benötigt Apple Developer Account für Code-Signierung. Der Quel
 
 ## Warum dieses Plugin?
 
-YouTube blendet bei bestimmten Themen automatisch Infoboxen von Wikipedia und Britannica ein – ohne dass man danach gefragt hat. Das ist eine Form der Bevormundung: Eine Plattform entscheidet, dass du eine "Einordnung" brauchst, bevor du dir eine eigene Meinung bilden kannst.
+YouTube blendet bei bestimmten Themen automatisch Topical-Context-Panels (auch Informationstafeln oder Wikipedia-Boxen genannt) unter Videos ein – ohne dass man danach gefragt hat. Ob du diese hilfreich findest oder nicht, sollte deine Entscheidung sein, nicht YouTubes.
 
-Wikipedia ist keine neutrale, unfehlbare Quelle – sie wird von anonymen Editoren geschrieben und ist bei vielen Themen umstritten. Trotzdem präsentiert YouTube diese Panels so, als wären sie die objektive Wahrheit.
-
-**Hide Wiki gibt dir die Kontrolle zurück.** Du entscheidest selbst, welche Quellen du liest.
+**Hide Wiki gibt dir diese Wahl zurück.** Du entscheidest, welchen Kontext du brauchst und woher du ihn bekommst. Ein saubereres YouTube, nach deinen Regeln.
 
 ## Was wird entfernt?
 
@@ -167,7 +163,7 @@ Wikipedia ist keine neutrale, unfehlbare Quelle – sie wird von anonymen Editor
 └──────────────────────────────────────────┘
 ```
 
-Diese Extension entfernt **alle** Wikipedia- und Britannica-Infoboxen – unabhängig vom Thema. Videoinhalte werden nicht blockiert oder verändert.
+Diese Extension entfernt **alle** Topical-Context-Panels (Wikipedia-Boxen, Britannica-Informationstafeln) – unabhängig vom Thema. Videoinhalte werden nicht blockiert oder verändert.
 
 ---
 
