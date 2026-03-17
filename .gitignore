@@ -1,5 +1,6 @@
 # Build artifacts – these go into GitHub Releases, not the repo
 *.xpi
+!Firefox-Verified/*.xpi
 *.zip
 
 # Generated files
